@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Исключение директорий с данными
+data/
+train/
+val/
+test/
