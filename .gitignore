@@ -176,6 +176,6 @@ cython_debug/
 
 # Исключение директорий с данными
 data/
-train/
-val/
-test/
+data/train/
+data/val/
+data/test/
